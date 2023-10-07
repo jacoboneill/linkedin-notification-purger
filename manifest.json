@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Notifications Purger",
+  "version": "1.0",
+  "description": "A Chrome extension for Purging LinkedIn Notifications, until the LinkedIn Team Add The Feature to Delete All!",
+  "permissions": ["activeTab", "tabs", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
